@@ -22,7 +22,7 @@ Welcome to the Dynamic Weather-Based Wallpaper Changer! This Python application 
 ### Steps
 1. Clone the repository:
     ```bash
-    [git clone https://github.com/yourusername/weather-wallpaper-changer.git](https://github.com/KasunUdayanga/Wallpaper_changer.git)
+    git clone https://github.com/yourusername/weather-wallpaper-changer.git
     cd weather-wallpaper-changer
     ```
 
